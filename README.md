@@ -13,3 +13,6 @@
   - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
   - Web: Any web browser
 
+Screenshots
+![home](https://user-images.githubusercontent.com/49232269/151819045-81a90da3-9aeb-4501-9c2f-b9a101cbc9c7.png)
+![detail](https://user-images.githubusercontent.com/49232269/151819311-fb3fcac3-4f10-44c4-b65a-cbce3daaab41.png)
